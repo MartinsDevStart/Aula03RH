@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\Aula03RH\\Aula03RH.csproj": {}
+    "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\CloneA03\\Aula03RH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\Aula03RH\\Aula03RH.csproj": {
+    "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\CloneA03\\Aula03RH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\Aula03RH\\Aula03RH.csproj",
+        "projectUniqueName": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\CloneA03\\Aula03RH.csproj",
         "projectName": "Aula03RH",
-        "projectPath": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\Aula03RH\\Aula03RH.csproj",
+        "projectPath": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\CloneA03\\Aula03RH.csproj",
         "packagesPath": "C:\\Users\\pedrodelas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\Aula03RH\\obj\\",
+        "outputPath": "C:\\Users\\pedrodelas\\Documents\\Técnico DS\\2º Semestre\\DS\\CloneA03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedrodelas\\AppData\\Roaming\\NuGet\\NuGet.Config"
